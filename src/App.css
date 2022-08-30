@@ -1,0 +1,26 @@
+.App {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.App-logo {
+  pointer-events: none;
+  margin: 30px 0px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.feeds {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.feed img {
+  max-width: 360px;
+}
